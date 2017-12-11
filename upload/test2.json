@@ -1,0 +1,72 @@
+{
+"test_name": "test-2",
+"questions":[
+	{
+		"question": "Сколько суток в 1 неделе?",
+        "answers": [
+			{
+				"answer": "5",
+				"result": false
+			},
+			{
+				"answer": "7",
+				"result": true
+			},
+			{
+				"answer": "6",
+				"result": false
+			}
+		]
+	},
+	{
+		"question": "Сколько часов в сутках?",
+        "answers": [
+			{
+				"answer": "12",
+				"result": false
+			},
+			{
+				"answer": "48",
+				"result": false
+			},
+			{
+				"answer": "24",
+				"result": true
+			}
+		]	
+	},
+	{
+		"question": "Сколько минут в 1 часе?",
+        "answers": [
+			{
+				"answer": "60",
+				"result": true
+			},
+			{
+				"answer": "360",
+				"result": false
+			},
+			{
+				"answer": "120",
+				"result": false
+			}
+		]
+	},	
+	{
+		"question": "Сколько секунд в 1 минуте?",
+        "answers": [
+			{
+				"answer": "80",
+				"result": false
+			},
+			{
+				"answer": "60",
+				"result": true
+			},
+			{
+				"answer": "120",
+				"result": false
+			}
+		]
+	}
+]}
